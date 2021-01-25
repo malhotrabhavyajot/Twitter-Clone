@@ -79,7 +79,6 @@ li {
 }
 
 .tweet {
-  width: 100%;
   max-width: 590px;
   padding: 10px;
   display: flex;
